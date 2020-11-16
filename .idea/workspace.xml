@@ -50,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605504464696</updated>
       <workItem from="1605504465755" duration="157000" />
-      <workItem from="1605554308197" duration="8978000" />
+      <workItem from="1605554308197" duration="9085000" />
     </task>
     <task id="LOCAL-00001" summary="Finished without metric system">
       <created>1605563264465</created>
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605563264465</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished without metric system">
+      <created>1605563474198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605563474198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +87,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished without metric system" />
     <option name="LAST_COMMIT_MESSAGE" value="Finished without metric system" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605563481276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605563481276" />
   </component>
 </project>
